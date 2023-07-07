@@ -1,0 +1,10 @@
+go get github.com/aristat/golang-example-app/app/common
+go get github.com/aristat/golang-example-app/app/config
+go get github.com/aristat/golang-example-app/app/logger
+go get github.com/aristat/golang-example-app/generated/resources/proto/health_checks
+go get github.com/spf13/cobra
+go get go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc
+go get go.opentelemetry.io/otel
+go get go.opentelemetry.io/otel/propagation
+go get google.golang.org/grpc
+go get google.golang.org/protobuf/types/known/emptypb
